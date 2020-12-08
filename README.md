@@ -1,33 +1,39 @@
-[![Gymnasium Logo](https://cdn.rawgit.com/gymnasium/gymnasium.github.io/master/assets/GYM-logo.svg)](http://thegymnasium.com)
+[![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](http://thegymnasium.com)
 
 # JQUERY BUILDING BLOCKS
 
 **A free online course at the [Gymnasium](http://thegymnasium.com)**
 
-Learn five easy techniques for adding interactivity to your web pages. By the end, you’ll be able to add features and style to your web apps-from simple animations to complex dynamic content.
+This course will teach you 5 easy techniques for adding interactivity to your web pages. By the end of the course, you’ll be able to add features and style to your web pages, from simple animations to complex dynamic content.
 
-**SKILLS COVERED**
+**Taught by Dave Porter of Apple**
+
+### SKILLS COVERED
+
 - Navigation, animation, and server interaction
 - JavaScript
 - HTML/CSS
-- And more…
+- And more...
 
-**THIS COURSE IS FOR**
+### THIS COURSE IS FOR
+
 - Designers with coding chops
 - Front-End Developers
 - JavaScript Developers
 
-### [ENROLL NOW!](http://thegymnasium.com/courses/GYM/102/0/about)
+### [ENROLL NOW!](https://thegymnasium.com/courses/GYM/102/0/about)
+
+
+### Preview
+[![Poster frame for course preview video](http://img.youtube.com/vi/ZvBf89VaMJI/0.jpg)](http://www.youtube.com/watch?v=ZvBf89VaMJI "Course Preview")
 
 ---
 
 ## About Gymnasium
 
-
 ### Real World Skills
 
 Gymnasium offers free online courses designed to teach creative professionals in-demand skills. We know these skills are in demand because our clients tell us what they are looking for, but can't find.
-
 
 ### Expert Instruction
 
